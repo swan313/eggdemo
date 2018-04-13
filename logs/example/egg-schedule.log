@@ -1,0 +1,6 @@
+2018-04-13 20:13:14,209 INFO 96782 [Timer] /Users/swan/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-04-14 00:00:00.000
+2018-04-13 20:13:14,210 INFO 96782 [Timer] /Users/swan/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-04-14 00:00:01.000
+2018-04-13 20:19:09,283 INFO 97759 [Timer] /Users/swan/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-04-14 00:00:00.000
+2018-04-13 20:19:09,284 INFO 97759 [Timer] /Users/swan/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-04-14 00:00:01.000
+2018-04-13 20:33:02,480 INFO 180 [Timer] /Users/swan/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-04-14 00:00:00.000
+2018-04-13 20:33:02,481 INFO 180 [Timer] /Users/swan/Desktop/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-04-14 00:00:01.000
